@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+}
+
+img {
+    width: 400px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#recipe-name {
+    color: black;
+    text-shadow: 2px 0 1px orange;
+    text-align: center;
+}
+
+h3, p, ul, h4, ol {
+    color: silver;
+    text-align: justify;
+}
