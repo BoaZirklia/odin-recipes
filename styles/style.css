@@ -14,17 +14,12 @@ body {
     text-decoration: none;
     font-size: 20px;
     font-weight: lighter;
-    text-shadow: 2px 0 1px orange;
-    
-
-    
-    
+    text-shadow: 2px 0 1px orange; 
 }
 
 a:hover {
     color: black;
     text-shadow: 2px 0 1px silver;
-    
 }
 
 li {

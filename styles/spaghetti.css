@@ -20,3 +20,17 @@ h3, p, ul, h4, ol {
     color: silver;
     text-align: justify;
 }
+
+.home {
+    color: black;
+    font-size: 15px;
+    text-align: center;
+    text-decoration: none;
+    text-shadow: 2px 0 1px silver;
+}
+
+a:hover {
+    color: black;
+    text-shadow: 2px 0 1px orange;
+    font-weight: bold;
+}
